@@ -82,7 +82,7 @@
 ## 英文申请短文
 
 各位老师好，我是陈贞，来自河南南阳，15年毕业郑州轻工业学院，网络工程专业。
-毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友干科技有限公司，担任技术主管和系统架构师。
+毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友乾科技有限公司，担任技术主管和系统架构师。
 任职期间，带领团队：
 42天实现产品上线，迅速占领海外市场;
 2个月获取印尼金融管理局牌照，实现业务合规化，比同行业节省半年以上时间。
@@ -92,19 +92,12 @@
 副总裁知道后，主动作为我的推荐人，并希望我在公司拓展海外市场的过程中，有更出色的表现。
 
 
-Dear teachers, I am Chen Zhen, from Nanyang, Henan Province, 
-graduated from Zhengzhou Institute of Light Industry in 15 years, majoring in network engineering.
-
-After graduating, he has been engaged in server-side research and development. 
-He is currently working for Cheetah Mobile, Wangmi Yougan Technology Co., Ltd., 
-as technical director and system architect.
-During the tenure, lead the team:
-    42 days to achieve product launch, quickly occupying overseas markets;
-    Two months to obtain the Indonesian Monetary Authority license, to achieve business compliance, saving more than half a year than the same industry.
-    Quickly adjust product solutions to achieve business profitability;
-After the recommendation of the leadership, he participated in the Cheetah Manager Training Camp and became the technical supervisor, 
-responsible for project management, talent recruitment, and employee performance appraisal.
-Although I have achieved certain results in my studies and work, 
-I am also aware of the lack of management theory, 
-so I signed up for the Master of Engineering Management program at Peking University Software and Microelectronics.
-After knowing the vice president, I took the initiative as my recommender and hoped that I would have a better performance in the process of expanding the overseas market.
+Dear teachers, my name is Chenzhen. I am from Nanyang, Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering.
+After graduation, I have been working on back-end research and development. Now I am working as technical director and system architect in Uangme You Qian Technology Co., Ltd, which is belong to Cheetah Mobile.
+During the tenure, my main work as followed:
+    1. achieved product launch in 42 days and quickly occupied overseas markets;
+    2. to achieve business compliance, we obtained the Indonesian Monetary Authority license in two months, saving more than half a year than the same industry.
+    3. Quickly adjusted product solutions to achieve business profitability;
+Later, due to the leadership recommendation, I participated in the Cheetah Manager Training Camp and became the technical supervisor, responsible for project management, talent recruitment, and employee performance appraisal.
+Although I have achieved certain results in my studies and work, I am also aware of the lack of management theory, so I signed up for the Master of Engineering Management program at School of Software & Microelectronics of Peking University.
+After the vice president knew it, he took the initiative as my recommender and hoped that I would have a better performance in the process of expanding the overseas market.
