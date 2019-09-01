@@ -108,3 +108,65 @@ Although I have achieved certain results in my studies and work,
 I am also aware of the lack of management theory, 
 so I signed up for the Master of Engineering Management program at Peking University Software and Microelectronics.
 After knowing the vice president, I took the initiative as my recommender and hoped that I would have a better performance in the process of expanding the overseas market.
+
+
+
+北大软微MEM面试总共时间为15-20分钟，主要考核MEM考生综合素养，具体包含流程分为三个内容具体如下：</p>
+（1）英语口语测试：通过面试考官对答式进行提问，考生进行英语回答。</p>
+     
+（2）专业化考核：面试考官结合考生所报考的专业进行针对性的考核，包括考生曾经所选修的本科或者研究生课程内容</p>
+（3）结构化考核：北大软微MEM面试考官会结合考生所在的行业，职业经历，所经历的项目和职业定位进行综合性的考核。</p>
+
+英语口语测试：对于过4级，没过6级的面试者，除了英语自我介绍，还有其他的吗？
+专业化考核:  对于学者ai专业的面试则，会聊一些什么？比如本科数学、计算机？或者是？
+结构化考核:  考生所在的行业，职业经历，所经历的项目和职业定位进行综合性的考核; 大家都经历了那些问题？
+
+ 
+Dear Teachers:
+  My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering.
+  Since graduating I have been working in the field of back-end research and development. Currently, I am employed as a Technical Director and System Architect at Uangme You Qian Technology Co., Ltd, which is a subsidiary of Cheetah Mobile.
+   During my tenure, my main work duties have been as follows:
+    1. Achieved product launch in 42 days and quickly gained significant market share in overseas territories;
+    2. For the sake of business compliance, obtained relevant licenses from the Indonesian Monetary Authority in two months - half a year faster compared to other companies in the same industry.
+    3. Quickly adjusted product solutions to achieve business profitability. Later, due to recommendations from company leaders, participated in the Cheetah Manager Training Camp and became the Technical Supervisor, responsible for project management, talent recruitment, and employee performance appraisal.
+  Although I have achieved results in my studies and work that I am proud of, I am aware that I lack knowledge of management theory, so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
+  
+  
+# 群面
+
+## 题目
+    - 人工职能是替代人还是成就人
+    - 比特币是否可以作为货币
+    - 知易行难还是知难行易
+    - 引进外资重要还是引进资金重要
+    - 当选村长、冬奥会志愿者有那些品质
+
+## 问答. 
+    - 评价群面伙伴的表现，或对论题的观点
+
+# 个面  
+
+## 英语环节：
+    - 英文(中文)自我介绍
+    - 本科专业描述
+    - 注意无法表达时英文
+## 正常环节   
+    - 报考动机 
+    - 工作、学校、专业、家庭、家乡
+    - 优缺点（结合体面资料）
+    - 再次看一下简历、信息表、成绩单
+    - 工作相关
+    - 专业: ai 
+        - 矩阵的秩:
+        - 极大线性无关组
+        - 点估计
+        - t 分布
+        - 正态分布
+    - 专业与背景的相关性（风控模型与人工智能，机器学习，深度学习）
+    - 了解人工智能最热点的东西
+        
+        
+    
+    
+
+
