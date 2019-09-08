@@ -82,7 +82,7 @@
 ## 英文申请短文
 
 各位老师好，我是陈贞，来自河南南阳，15年毕业郑州轻工业学院，网络工程专业。
-毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友干科技有限公司，担任技术主管和系统架构师。
+毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友乾科技有限公司，担任技术主管和系统架构师。
 任职期间，带领团队：
 42天实现产品上线，迅速占领海外市场;
 2个月获取印尼金融管理局牌照，实现业务合规化，比同行业节省半年以上时间。
@@ -91,23 +91,6 @@
 虽然在学习和工作中获得了一定的成绩，但也意识到管理理论的不足，所以报名参加北大软件与微电子学院工程管理硕士项目。
 副总裁知道后，主动作为我的推荐人，并希望我在公司拓展海外市场的过程中，有更出色的表现。
 
-
-Dear teachers, I am Chen Zhen, from Nanyang, Henan Province, 
-graduated from Zhengzhou Institute of Light Industry in 15 years, majoring in network engineering.
-
-After graduating, he has been engaged in server-side research and development. 
-He is currently working for Cheetah Mobile, Wangmi Yougan Technology Co., Ltd., 
-as technical director and system architect.
-During the tenure, lead the team:
-    42 days to achieve product launch, quickly occupying overseas markets;
-    Two months to obtain the Indonesian Monetary Authority license, to achieve business compliance, saving more than half a year than the same industry.
-    Quickly adjust product solutions to achieve business profitability;
-After the recommendation of the leadership, he participated in the Cheetah Manager Training Camp and became the technical supervisor, 
-responsible for project management, talent recruitment, and employee performance appraisal.
-Although I have achieved certain results in my studies and work, 
-I am also aware of the lack of management theory, 
-so I signed up for the Master of Engineering Management program at Peking University Software and Microelectronics.
-After knowing the vice president, I took the initiative as my recommender and hoped that I would have a better performance in the process of expanding the overseas market.
 
 
 
@@ -131,7 +114,7 @@ Dear Teachers:
     3. Quickly adjusted product solutions to achieve business profitability. Later, due to recommendations from company leaders, participated in the Cheetah Manager Training Camp and became the Technical Supervisor, responsible for project management, talent recruitment, and employee performance appraisal.
   Although I have achieved results in my studies and work that I am proud of, I am aware that I lack knowledge of management theory, so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
   
-  
+
 # 群面
 
 ## 题目
