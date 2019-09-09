@@ -81,15 +81,7 @@
 
 ## 英文申请短文
 
-各位老师好，我是陈贞，来自河南南阳，15年毕业郑州轻工业学院，网络工程专业。
-毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友乾科技有限公司，担任技术主管和系统架构师。
-任职期间，带领团队：
-42天实现产品上线，迅速占领海外市场;
-2个月获取印尼金融管理局牌照，实现业务合规化，比同行业节省半年以上时间。
-快速调整产品方案，实现业务盈利;
-后因领导推荐，参加了猎豹管理者训练营，成为技术主管，负责项目管理，人才招聘，员工绩效考核工作。
-虽然在学习和工作中获得了一定的成绩，但也意识到管理理论的不足，所以报名参加北大软件与微电子学院工程管理硕士项目。
-副总裁知道后，主动作为我的推荐人，并希望我在公司拓展海外市场的过程中，有更出色的表现。
+
 
 
 
@@ -105,15 +97,7 @@
 结构化考核:  考生所在的行业，职业经历，所经历的项目和职业定位进行综合性的考核; 大家都经历了那些问题？
 
  
-Dear Teachers:
-  My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering.
-  Since graduating I have been working in the field of back-end research and development. Currently, I am employed as a Technical Director and System Architect at Uangme You Qian Technology Co., Ltd, which is a subsidiary of Cheetah Mobile.
-   During my tenure, my main work duties have been as follows:
-    1. Achieved product launch in 42 days and quickly gained significant market share in overseas territories;
-    2. For the sake of business compliance, obtained relevant licenses from the Indonesian Monetary Authority in two months - half a year faster compared to other companies in the same industry.
-    3. Quickly adjusted product solutions to achieve business profitability. Later, due to recommendations from company leaders, participated in the Cheetah Manager Training Camp and became the Technical Supervisor, responsible for project management, talent recruitment, and employee performance appraisal.
-  Although I have achieved results in my studies and work that I am proud of, I am aware that I lack knowledge of management theory, so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
-  
+
 
 # 群面
 
@@ -126,13 +110,111 @@ Dear Teachers:
 
 ## 问答. 
     - 评价群面伙伴的表现，或对论题的观点
+    
+    
+## 无领导小组讨论(5人1组) 组织协调能力
+- 建议小组划分并确定任务进程:计时员，时间控制，控制超时(女生)
+    - 发言5分钟
+    - 辩论环节15分钟
+    - 代表发言2分钟
+- 制定讨论标准: 讨论思路的进程控制，对冗长讨论，适时总结概括（女生）
+- 记录小组成员的观点和小组的讨论进程，明确思路，总结；记录者（男生）
+- 让没有发表意见的同学表达意见    
+        
+        
+## 人工智能是替代人还是成就人
+    
+未来人工智能会替代人力劳动，让我们能够解放出来，可以去做那些我们想做的、有创意的、好玩的事情，从而成就人。
+
+### 关于替代人
+如同工业革命一样，对于人类社会的发展是至关重要的。
+虽然会带来一些社会挑战，比如工作机会、
+
+但是我们可以更容易的做我们想做的事情，我们可能并不需要做我们现在不得不去做但是又很讨厌的事情，这是人工智能对我们最大的帮助。
+让人们从繁忙的工作中解放，从繁重的学习中解脱出来，当然民族在创新力方面得到提高，使得我们的生活质量得到进一步的提升。
+同时人工智能还可以做人类先天不足的事情，弥补人类生理上的不足和在计算能力上的不足。
+
+    
 
 # 个面  
 
 ## 英语环节：
-    - 英文(中文)自我介绍
-    - 本科专业描述
-    - 注意无法表达时英文
+
+### 英文自我介绍
+
+```   
+中文：
+各位老师好，我是陈贞，来自河南南阳，15年毕业郑州轻工业学院，网络工程专业。
+毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友乾科技有限公司，担任技术主管和系统架构师。
+任职期间，带领团队：
+42天实现产品上线，迅速占领海外市场;
+2个月获取印尼金融管理局牌照，实现业务合规化，比同行业节省半年以上时间。
+快速调整产品方案，实现业务盈利;
+后因领导推荐，参加了猎豹管理者训练营，成为技术主管，负责项目管理，人才招聘，员工绩效考核工作。
+虽然在学习和工作中获得了一定的成绩，但也意识到管理理论的不足，所以报名参加北大软件与微电子学院工程管理硕士项目。
+副总裁知道后，主动作为我的推荐人，并希望我在公司拓展海外市场的过程中，有更出色的表现。
+
+
+英文:
+Dear Teachers:
+    My name is Chen Zhen. 
+I come from the city of Nanyang in Henan Province 
+and graduated from Zhengzhou University of Light Industry in 2015,
+majoring in network engineering.
+    Since graduating I have been working in the field of back-end research and development. 
+Currently, I am employed as a Technical Director and System Architect at Uangme You Qian Technology Co., Ltd, 
+which is a subsidiary of Cheetah Mobile.
+    During my tenure, my main work duties have been as follows:
+        1. Achieved product launch in 42 days and quickly gained significant market share in overseas territories;
+        2. For the sake of business compliance, obtained relevant licenses from the Indonesian Monetary Authority in two months - 
+            half a year faster compared to other companies in the same industry.
+        3. Quickly adjusted product solutions to achieve business profitability.
+           Later, due to recommendations from company leaders, participated in the Cheetah Manager Training Camp and became the Technical Supervisor, 
+           responsible for project management, talent recruitment, and employee performance appraisal.
+    Although I have achieved results in my studies and work that I am proud of, 
+    I am aware that I lack knowledge of management theory, 
+    so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. 
+    When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that 
+    the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
+```      
+### 你的公司介绍
+
+```
+中文:
+    旺米友乾是从猎豹移动金融部成立，现有互金和交易所两个业务线。
+互金产品线:依托专业工程产品团队和强大的风控系统支持，开展海外互金业务，借贷、投资产品已经实现盈利；
+交易所产品线:Bitrue是专注于区块链数字资产的交易平台，面向全球用户提供包括比特币、比特现金、以太坊、莱特币等数字资产以及衍生品的交易服务。
+公司使命"用科技，让更多人平等地获得金融服务"。
+
+英文: todo
+ Uangme You Qian Technology  Co., Ltd, was established from the Cheetah Mobile Finance Department 
+ Internet finance Peer-to-peer lending
+
+Relying on the professional engineering product team and strong wind control system support, 
+the overseas mutual gold business is carried out, and the loan and investment products have realized profitability;
+    
+Bitrue exchange is established by a group of blockchain enthusiasts and focus on cryptocurrency trading.
+We dedicate to providing safe and convenient service for cryptocurrency trading, 
+and being the best aggregator of qualified cryptocurrency all over the world.    
+
+```
+### 个人工作
+
+```
+the Technical Supervisor, 
+responsible for project management, talent recruitment, and employee performance appraisal.    
+    
+```    
+  
+    
+   
+   
+    
+    ③介绍一下你的学校
+    
+    ⑤介绍一下你的专业
+    
+      - 注意无法表达时英文
 ## 正常环节   
     - 报考动机 
     - 工作、学校、专业、家庭、家乡
@@ -147,9 +229,50 @@ Dear Teachers:
         - 正态分布
     - 专业与背景的相关性（风控模型与人工智能，机器学习，深度学习）
     - 了解人工智能最热点的东西
-        
-        
     
+# 个面
+   
+   1、英语面试：
+   
+   注意：大多数考场没有英文自我介绍，直接就是英文问题
+   
+   常见问题：
+   
+   ①介绍一下你的公司
+   
+   ②介绍一下你的工作
+   
+   ③介绍一下你的学校
+   
+   ⑤介绍一下你的专业
+   
+   变态问题：
+   
+   用英语说一下：滴水之恩当涌泉相报。
+   
+   用英语介绍一下做的项目。
+   
+   不一一列举了，没办法准备也没必要准备。中奖的概率不高。
+   
+   2、中文面试
+   
+   常见问题
+   
+   ①大学成绩单中科目常见的理论，原理及公式
+   
+   ②各个方向的定义或者自己的理解，报考方向的意义。
+   
+   ③方向相关的技术，知识，原理
+   
+   ④工作的问题，项目的问题（根据写的材料）
+   
+   ⑤管理学职能：计划、组织、指挥、协调和控制
+   
+   3、个面的时间
+   
+   平均每人6-7分钟 
     
+
+
 
 
