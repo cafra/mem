@@ -176,6 +176,12 @@ which is a subsidiary of Cheetah Mobile.
     so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. 
     When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that 
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
+
+口语版本:
+Good morning everyone:
+    My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. After graduation, I have been working in server research and development. 
+	Now I am the technical director and system architect of Cheetah Mobile. I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, adjusted product to achieve business profitability.
+    	In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
 ```      
 ### 公司介绍
 
@@ -230,8 +236,22 @@ majoring in network engineering.
 
 ### 报考动机 
 
+- 第一,担任技术主管，需要提升团队和项目管理能力;
+- 第二,负责国际化业务，需要拓展国际化视野，把握国际经济形势;
+- 第三,北大的工程管理课程与自身工作和专业密切相关，
+        尤其是人工智能，通过深度学习，实现风控系统的快速迭代，从而保证项目的可持续发展;
+- 第四,个人情结,本科阶段由于家庭原因放弃读研;
+
+
 ### 优缺点（结合体面资料）
-    - 再次看一下简历、信息表、成绩单
+- 优点
+    - 学习能力强，敢于创新和实践;
+    - 做事有目标和计划，有很强的执行力；
+    - 结果导向，勇于担当，对结果负责；
+- 缺点
+    - 不知如何拒绝，同事要求帮忙一概揽下，影响自身工作进度。
+      通过多任务处理能力设定优先顺序，以该优先顺序表向求助同事展示自己手上工作，
+      并给其一个自己在何时可以给予帮助的时间估计，让求助人自行决定是否求助，问题解决。 
     
 ### 人工智能方向相关的技术，知识，原理   
     - 专业与背景的相关性（风控模型与人工智能，机器学习，深度学习）
@@ -240,13 +260,11 @@ majoring in network engineering.
 ### 工作的问题，项目的问题（根据写的材料）
 
 ### 大学成绩单中科目常见的理论，原理及公式
-
-        - 专业: ai 
-        - 矩阵的秩:
-        - 极大线性无关组
-        - 点估计
-        - t 分布
-        - 正态分布
+    - 矩阵的秩:         矩阵中所有行向量中极大线性代无关组的元素个数
+    - 极大线性无关组:    方程组中真正有价值的方程对应的系数向量
+    - 点估计
+    - t 分布
+    - 正态分布
 
 ### 管理学职能：计划、组织、指挥、协调和控制
 
