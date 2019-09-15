@@ -83,9 +83,6 @@
 
 
 
-
-
-
 北大软微MEM面试总共时间为15-20分钟，主要考核MEM考生综合素养，具体包含流程分为三个内容具体如下：</p>
 （1）英语口语测试：通过面试考官对答式进行提问，考生进行英语回答。</p>
      
@@ -213,99 +210,95 @@ which is a subsidiary of Cheetah Mobile.
     so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. 
     When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that 
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
+
+口语版本:
+Good morning everyone:
+    My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. After graduation, I have been working in server research and development. 
+	Now I am the technical director and system architect of Cheetah Mobile. I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, adjusted product to achieve business profitability.
+    	In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
 ```      
-### 你的公司介绍
+### 公司介绍
 
 ```
 中文:
-    旺米友乾是从猎豹移动金融部成立，现有互金和交易所两个业务线。
-互金产品线:依托专业工程产品团队和强大的风控系统支持，开展海外互金业务，借贷、投资产品已经实现盈利；
-交易所产品线:Bitrue是专注于区块链数字资产的交易平台，面向全球用户提供包括比特币、比特现金、以太坊、莱特币等数字资产以及衍生品的交易服务。
+旺米友乾是从猎豹移动金融部成立.目前有互联网金融和数字货币交易所两个业务线。
+
+uangme依托专业工程产品团队和强大的风控系统支持，在印尼和菲律宾开展海外p2p业务,随着业务牌照的获得，公司进入行业第一梯队，实现盈利；
+Bitrue，是专注于区块链数字资产的交易平台，面向全球用户提供包括比特币、比特现金、以太坊、莱特币等数字资产以及衍生品的交易服务。
+
 公司使命"用科技，让更多人平等地获得金融服务"。
 
-英文: todo
- Uangme You Qian Technology  Co., Ltd, was established from the Cheetah Mobile Finance Department 
- Internet finance Peer-to-peer lending
+英文: 
+    Uangme You Qian Technology Co. Ltd  was established from the Cheetah Mobile Finance Department. 
+There are currently two internet lines for internet finance business uangme and digital currency exchange bitrue.
 
-Relying on the professional engineering product team and strong wind control system support, 
-the overseas mutual gold business is carried out, and the loan and investment products have realized profitability;
-    
-Bitrue exchange is established by a group of blockchain enthusiasts and focus on cryptocurrency trading.
-We dedicate to providing safe and convenient service for cryptocurrency trading, 
-and being the best aggregator of qualified cryptocurrency all over the world.    
+    Uangme relies on professional engineering product team and strong risk control system to support overseas p2p business in Indonesia and the Philippines. 
+With the acquisition of business license, the company enters the first echelon of the industry and realizes profitability;
+    Bitrue is a trading platform that focuses on blockchain digital assets and 
+provides trading services to digital users including BTC, BCC, Ethereum, LTC and other derivatives.
+
+    The mission of the company is to use technology to enable more people to obtain financial services on an equal basis.  
+```
+### 工作介绍
 
 ```
-### 个人工作
-
-```
-the Technical Supervisor, 
-responsible for project management, talent recruitment, and employee performance appraisal.    
+中文:
+担任uangme技术组长，负责系统架构设计。
+从事管理项目，人才招聘，员工绩效考核等工作。
     
+
+As the technical leader of uangme, responsible for system architecture design.
+Engaged in management projects, talent recruitment, employee performance appraisal, etc.
 ```    
   
+### 学校、专业介绍  
+
+```
+中文：
+郑州轻工业大学位于河南省会郑州市，是河南省重点建设高校。
+学校校训“为之则易、不为则难”。
+
+Zhengzhou University of Light Industry (ZZULI) locates in the city of Zhengzhou ,the capital of Henan Province. 
+It is a key university in Henan Province.
+“nothing is too difficult for the willing mind” is the school motto. 
+
+majoring in network engineering.
+
+```
+
+## 中文面试   
+
+### 报考动机 
+
+- 第一,担任技术主管，需要提升团队和项目管理能力;
+- 第二,负责国际化业务，需要拓展国际化视野，把握国际经济形势;
+- 第三,北大的工程管理课程与自身工作和专业密切相关，
+        尤其是人工智能，通过深度学习，实现风控系统的快速迭代，从而保证项目的可持续发展;
+- 第四,个人情结,本科阶段由于家庭原因放弃读研;
+
+
+### 优缺点（结合体面资料）
+- 优点
+    - 学习能力强，敢于创新和实践;
+    - 做事有目标和计划，有很强的执行力；
+    - 结果导向，勇于担当，对结果负责；
+- 缺点
+    - 不知如何拒绝，同事要求帮忙一概揽下，影响自身工作进度。
+      通过多任务处理能力设定优先顺序，以该优先顺序表向求助同事展示自己手上工作，
+      并给其一个自己在何时可以给予帮助的时间估计，让求助人自行决定是否求助，问题解决。 
     
-   
-   
-    
-    ③介绍一下你的学校
-    
-    ⑤介绍一下你的专业
-    
-      - 注意无法表达时英文
-## 正常环节   
-    - 报考动机 
-    - 工作、学校、专业、家庭、家乡
-    - 优缺点（结合体面资料）
-    - 再次看一下简历、信息表、成绩单
-    - 工作相关
-    - 专业: ai 
-        - 矩阵的秩:
-        - 极大线性无关组
-        - 点估计
-        - t 分布
-        - 正态分布
+### 人工智能方向相关的技术，知识，原理   
     - 专业与背景的相关性（风控模型与人工智能，机器学习，深度学习）
     - 了解人工智能最热点的东西
-    
-# 个面
-   
-   1、英语面试：
-   
-   注意：大多数考场没有英文自我介绍，直接就是英文问题
-   
-   常见问题：
-   
-   ①介绍一下你的公司
-   
-   ②介绍一下你的工作
-   
-   ③介绍一下你的学校
-   
-   ⑤介绍一下你的专业
-   
-   变态问题：
-   
-   用英语说一下：滴水之恩当涌泉相报。
-   
-   用英语介绍一下做的项目。
-   
-   不一一列举了，没办法准备也没必要准备。中奖的概率不高。
-   
-   2、中文面试
-   
-   常见问题
-   
-   ①大学成绩单中科目常见的理论，原理及公式
-   
-   ②各个方向的定义或者自己的理解，报考方向的意义。
-   
-   ③方向相关的技术，知识，原理
-   
-   ④工作的问题，项目的问题（根据写的材料）
-   
-   ⑤管理学职能：计划、组织、指挥、协调和控制
-   
-   3、个面的时间
-   
-   平均每人6-7分钟 
-    
+
+### 工作的问题，项目的问题（根据写的材料）
+
+### 大学成绩单中科目常见的理论，原理及公式
+    - 矩阵的秩:         矩阵中所有行向量中极大线性代无关组的元素个数
+    - 极大线性无关组:    方程组中真正有价值的方程对应的系数向量
+    - 点估计
+    - t 分布
+    - 正态分布
+
+### 管理学职能：计划、组织、指挥、协调和控制
+
