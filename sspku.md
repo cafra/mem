@@ -178,7 +178,7 @@
 听不懂时的表述
 Excuse me? 
 could you rephrase that, please?
-sorry, I don't get it.
+sorry, I can't get it.
 ```
 
 ### 英文自我介绍
