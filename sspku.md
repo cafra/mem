@@ -275,8 +275,31 @@ It is a key university in Henan Province.
 “nothing is too difficult for the willing mind” is the school motto. 
 
 majoring in network engineering.
-
 ```
+
+高数、编程、组面话题
+### 本科专业名称
+
+|学科|英文|
+|:-----|:-------|
+|英语     |college English
+|高数     |Higher Mathematics
+|计算机导论|Introduction to ComputerScience
+|程序设计|Programming Foundations
+|线代     |linear Algebra
+|离散数学  |Discrete Mathematics
+|数据结构  |Data Structures
+|数字逻辑电路|Digital logic circuit
+|组成原理|Computer Organization and Anchitecture
+|操作系统|Operating system
+|计算机网络|Computer Network
+|面向对象编程|Object-Oriented Programming
+|概率数统|Probability and Statistics
+|数据库原理|Database Principles
+|专业英语|Discipline English
+|web 应用|Application of web
+
+
 
 ## 中文面试   
 
