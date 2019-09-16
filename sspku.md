@@ -174,6 +174,13 @@
 
 ## 英语环节：
 
+```
+听不懂时的表述
+Excuse me? 
+could you rephrase that, please?
+sorry, I don't get it.
+```
+
 ### 英文自我介绍
 
 ```
