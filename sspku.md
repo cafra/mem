@@ -217,9 +217,8 @@ which is a subsidiary of Cheetah Mobile.
     so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. 
     When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that 
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
-
-口语版本:
-
+```
+<p style="text-indent:2em">
 Good morning everyone:
     My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, 
 majoring in network engineering. After graduation, I have been working in server research and development. 
@@ -227,7 +226,11 @@ majoring in network engineering. After graduation, I have been working in server
 I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, 
 adjusted product to achieve business profitability.
     In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
-```
+</p>
+
+
+
+
      
 ### 公司介绍
 
@@ -277,6 +280,8 @@ It is a key university in Henan Province.
 majoring in network engineering.
 ```
 
+### 家庭
+
 高数、编程、组面话题
 ### 本科专业名称
 
@@ -298,6 +303,11 @@ majoring in network engineering.
 |数据库原理|Database Principles
 |专业英语|Discipline English
 |web 应用|Application of web
+|人工智能|artificial intelligence
+
+### 如何评价同伴的表现，或者对某个问题的观点
+Everyone is very friendly, outstanding, 
+and our cooperation is smooth.
 
 
 
