@@ -217,16 +217,20 @@ which is a subsidiary of Cheetah Mobile.
     so I signed up for the Master of Engineering Management program at the School of Software & Microelectronics of Peking University. 
     When my company's Vice President discovered this, he took the initiative to offer an official recommendation in the hopes that 
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
-```
-<p style="text-indent:2em">
+
+
 Good morning everyone:
-    My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, 
-majoring in network engineering. After graduation, I have been working in server research and development. 
+    My name is Chen Zhen. I come from the city of Nanyang in Henan Province 
+    and graduated from Zhengzhou University of Light Industry in 2015, 
+    majoring in network engineering. After graduation, I have been working in server research and development. 
+    
     Now I am the technical director and system architect of Cheetah Mobile. 
-I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, 
-adjusted product to achieve business profitability.
-    In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
-</p>
+    I lead the team that achieved product launch in 42 days, obtained a license from 
+    the Indonesian government in two months, adjusted product to achieve business profitability.
+    
+    In the management work, I recognized that management theory is lacking. 
+    This is why I come here to participate in the project.
+```
 
 
 
