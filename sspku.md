@@ -176,7 +176,7 @@
 
 ### 英文自我介绍
 
-```   
+```
 中文：
 各位老师好，我是陈贞，来自河南南阳，15年毕业郑州轻工业学院，网络工程专业。
 毕业后一直从事服务端研发工作，现就职于猎豹移动旗下，旺米友乾科技有限公司，担任技术主管和系统架构师。
@@ -212,11 +212,16 @@ which is a subsidiary of Cheetah Mobile.
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
 
 口语版本:
+
 Good morning everyone:
-    My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. After graduation, I have been working in server research and development. 
-	Now I am the technical director and system architect of Cheetah Mobile. I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, adjusted product to achieve business profitability.
-    	In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
-```      
+    My name is Chen Zhen. I come from the city of Nanyang in Henan Province and graduated from Zhengzhou University of Light Industry in 2015, 
+majoring in network engineering. After graduation, I have been working in server research and development. 
+    Now I am the technical director and system architect of Cheetah Mobile. 
+I lead the team that achieved product launch in 42 days, obtained a license from the Indonesian government in two months, 
+adjusted product to achieve business profitability.
+    In the management work, I recognized that management theory is lacking. This is why I come here to participate in the project.
+```
+     
 ### 公司介绍
 
 ```
