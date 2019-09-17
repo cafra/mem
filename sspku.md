@@ -291,15 +291,15 @@ majoring in network engineering.
 
 |学科|英文|
 |:-----|:-------|
-|英语     |college English
+|英语     |College English
 |高数     |Higher Mathematics
-|计算机导论|Introduction to ComputerScience
+|计算机导论|Introduction to Computer Science
 |程序设计|Programming Foundations
 |线代     |linear Algebra
 |离散数学  |Discrete Mathematics
 |数据结构  |Data Structures
 |数字逻辑电路|Digital logic circuit
-|组成原理|Computer Organization and Anchitecture
+|组成原理|Computer Organization and Architecture
 |操作系统|Operating system
 |计算机网络|Computer Network
 |面向对象编程|Object-Oriented Programming
