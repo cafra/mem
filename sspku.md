@@ -260,6 +260,10 @@ Bitrue，是专注于区块链数字资产的交易平台，面向全球用户�
     Uangme You Qian Technology Co. Ltd  was established from the Cheetah Mobile Finance Department. 
 There are currently two internet lines for internet finance business uangme and digital currency exchange bitrue.
 
+口语:
+    Our company is mainly engaged in internet credit loan, investment and digital currency exchanges.
+        
+
     Uangme relies on professional engineering product team and strong risk control system to support overseas p2p business in Indonesia and the Philippines. 
 With the acquisition of business license, the company enters the first echelon of the industry and realizes profitability;
     Bitrue is a trading platform that focuses on blockchain digital assets and 
