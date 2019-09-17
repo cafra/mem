@@ -140,6 +140,15 @@
     D有团队精神      :密切与团队合作
     E有奉献精神      :具有奉献精神，可以促进组织的发展
     
+- 绝境中“人吃人” 是否判处死刑？
+    - 需要确认被杀者是否自愿,或者是自然死亡,否则侵犯人的生命权；
+    - 需要确定适用法系:
+        - 中国刑法:会判刑，但未必死刑
+            故意杀人的，处死刑、无期徒刑或者十年以上有期徒刑；情节较轻的，处三年以上十年以下有期徒刑。船长杜德利、大副斯蒂芬为了抵挡饥饿故意杀害帕克
+            【紧急避险】为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在发生的危险，不得已采取的紧急避险行为，造成损害的，不负刑事责任。紧急避险超过必要限度造成不应有的损害的，应当负刑事责任，但是应当减轻或者免除处罚。
+        - 海洋法系:
+            存在先例，判处死刑，但是最终赦免;        
+    
     
 ## 无领导小组讨论(5人1组) 组织协调能力
 ### 流程
@@ -221,15 +230,15 @@ which is a subsidiary of Cheetah Mobile.
 
 Good morning everyone:
     My name is Chen Zhen. I come from the city of Nanyang in Henan Province 
-    and graduated from Zhengzhou University of Light Industry in 2015, 
-    majoring in network engineering. After graduation, I have been working in server research and development. 
+    and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. 
+    After graduation, I have been working in server research and development. 
     
     Now I am the technical director and system architect of Cheetah Mobile. 
     I lead the team that achieved product launch in 42 days, obtained a license from 
     the Indonesian government in two months, adjusted product to achieve business profitability.
     
     In the management work, I recognized that management theory is lacking. 
-    This is why I come here to participate in the project.
+    This is why I come here to participate in this project.
 ```
 
 
