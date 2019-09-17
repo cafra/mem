@@ -281,6 +281,9 @@ provides trading services to digital users including BTC, BCC, Ethereum, LTC and
 
 As the technical leader of uangme, responsible for system architecture design.
 Engaged in management projects, talent recruitment, employee performance appraisal, etc.
+
+口语:
+    I am the technical director of the uangme project, responsible for system architecture, design, project management, team management.
 ```    
   
 ### 学校、专业介绍  
