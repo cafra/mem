@@ -238,7 +238,7 @@ Good morning everyone:
     the Indonesian government in two months, adjusted product to achieve business profitability.
     
     In the management work, I recognized that management theory is lacking. 
-    This is why I come here to participate in this project.
+    This is why I come here to join in this project.
 ```
 
 
