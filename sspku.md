@@ -283,7 +283,7 @@ As the technical leader of uangme, responsible for system architecture design.
 Engaged in management projects, talent recruitment, employee performance appraisal, etc.
 
 口语:
-    I am the technical director of the uangme project, responsible for system architecture, design, project management, team management.
+    I am the technical director of the uangme project, responsible for system architecture, project and team management.
 ```    
   
 ### 学校、专业介绍  
@@ -295,12 +295,15 @@ Engaged in management projects, talent recruitment, employee performance apprais
 
 Zhengzhou University of Light Industry (ZZULI) locates in the city of Zhengzhou ,the capital of Henan Province. 
 It is a key university in Henan Province.
-“nothing is too difficult for the willing mind” is the school motto. 
+"Nothing is too difficult for the willing mind" is the school motto.  
 
 majoring in network engineering.
 ```
 
 ### 家庭
+```
+In college, I married my wife. When I graduated, my daughter was born. Now my daughter is 4 years old.
+```
 
 高数、编程、组面话题
 ### 本科专业名称
