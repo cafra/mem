@@ -281,7 +281,7 @@ which is a subsidiary of Cheetah Mobile.
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
 
 
-Good morning everyone:
+Good morning ladies and gentlemen:
     My name is Chen Zhen. I come from the city of Nanyang in Henan Province 
     and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. 
     After graduation, I have been working in server research and development. 
