@@ -119,7 +119,34 @@
     - 代表发言2分钟
 - 制定讨论标准: 讨论思路的进程控制，对冗长讨论，适时总结概括（女生）
 - 记录小组成员的观点和小组的讨论进程，明确思路，总结；记录者（男生）
-- 让没有发表意见的同学表达意见    
+- 让没有发表意见的同学表达意见  
+
+## 时间和流程控制(总30分钟，不能超时)
+- 5分钟个人发言提纲；
+- 5分钟个人阐述，每人1分钟；
+- 15分钟小组自由讨论；
+    - 前10分钟自由讨论(先松后紧)；
+    - 后5分钟达成共识,求同存异；
+- 5分钟小组代表总结；    
+
+## 角色划分
+- 领导者：能者居之，引导话题，表明全局思路；
+- 组织者：调停冲突，求同存异，照顾未发言者；
+- 时间控制者：时间控制；
+- 总结者：记录人，总结者，调理清晰；
+- 讨论者：积极参与讨论；
+
+## 注意事项
+- 时间控制者,举手示意时间到达，队友注意快速结束；
+- 结论不重要，以大局为重，少数服从多数；
+- 讨论中不能有情绪表现；
+- 讨论是相互讨论，不要看考官；
+
+
+
+
+## 
+  
         
         
 ## 人工智能是替代人还是成就人
@@ -229,6 +256,21 @@ It is a key university in Henan Province.
 “nothing is too difficult for the willing mind” is the school motto. 
 
 majoring in network engineering.
+
+```
+
+### 申请牌照经历体现出的有点，团队管理
+
+```
+中文：
+    在这个过程中，我主要负责探索业务合规方案，并进行系统设计，制定任务清单和时间节点，进行团队分工，
+    并对研发进度和质量进行控制，最终获得牌照，比同行业节省半年时间。
+    
+    In the process, I am responsible for exploring business compliance programs, system design, 
+    task list and time nodes, team division, control of development progress and quality, 
+    and finally obtaining a license, saving half a year compared with the same industry.
+    
+    
 
 ```
 
