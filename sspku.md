@@ -290,8 +290,8 @@ Good morning everyone:
     I lead the team that achieved product launch in 42 days, obtained a license from 
     the Indonesian government in two months, adjusted product to achieve business profitability.
     
-    At work, I realize the lack of management theory. 
-    This is why I come here to join in this project.
+    At work, I acknowledge that I lack knowledge in management theory. 
+    That is why I have come here to participate in this project.
 ```
 
 
