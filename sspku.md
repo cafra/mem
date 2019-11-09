@@ -110,7 +110,8 @@
       
 - 比特币是不是货币（两难式题型）
     - 比特币是P2P形式的数字货币
-    - 从货币本位角度考虑，比特币是货币:比特币具备和黄金相似的特点:稀缺、价值大、易存储、分割等；
+    - 从货币本位角度考虑，比特币是货币:
+        比特币具备和黄金相似的特点:稀缺、价值大、易存储、分割等；
     - 从货币职责考虑:
         - 价值尺度
         - 交换媒介
@@ -140,16 +141,68 @@
     D有团队精神      :密切与团队合作
     E有奉献精神      :具有奉献精神，可以促进组织的发展
     
-- 绝境中“人吃人” 是否判处死刑？
+## 人工智能是替代人还是成就人
+    - 绝境中“人吃人” 是否判处死刑？
     - 需要确认被杀者是否自愿,或者是自然死亡,否则侵犯人的生命权；
     - 需要确定适用法系:
         - 中国刑法:会判刑，但未必死刑
             故意杀人的，处死刑、无期徒刑或者十年以上有期徒刑；情节较轻的，处三年以上十年以下有期徒刑。船长杜德利、大副斯蒂芬为了抵挡饥饿故意杀害帕克
             【紧急避险】为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在发生的危险，不得已采取的紧急避险行为，造成损害的，不负刑事责任。紧急避险超过必要限度造成不应有的损害的，应当负刑事责任，但是应当减轻或者免除处罚。
         - 海洋法系:
-            存在先例，判处死刑，但是最终赦免;        
+            存在先例，判处死刑，但是最终赦免;  
+
+## 无领导小组讨论(5人1组) 组织协调能力
+- 建议小组划分并确定任务进程:计时员，时间控制，控制超时(女生)
+    - 发言5分钟
+    - 辩论环节15分钟
+    - 代表发言2分钟
+- 制定讨论标准: 讨论思路的进程控制，对冗长讨论，适时总结概括（女生）
+- 记录小组成员的观点和小组的讨论进程，明确思路，总结；记录者（男生）
+- 让没有发表意见的同学表达意见  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 时间和流程控制(总30分钟，不能超时)
+- 5分钟个人发言提纲；
+- 5分钟个人阐述，每人1分钟；
+- 15分钟小组自由讨论；
+    - 前10分钟自由讨论(先松后紧)；
+    - 后5分钟达成共识,求同存异；
+- 5分钟小组代表总结；    
+
+## 角色划分
+- 领导者：能者居之，引导话题，表明全局思路；
+- 组织者：调停冲突，求同存异，照顾未发言者；
+- 时间控制者：时间控制；
+- 总结者：记录人，总结者，尤其是小组共识，调理清晰；
+- 讨论者：积极参与讨论；
+
+## 注意事项
+- 时间控制者,举手示意时间到达，队友注意快速结束；
+- 结论不重要，以大局为重，少数服从多数；
+- 讨论中不能有情绪表现；
+- 讨论是相互讨论，不要看考官；
+
+
+        
+        
+      
     
-    
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## 无领导小组讨论(5人1组) 组织协调能力
 ### 流程
 - 候场明确角色分工定义;
@@ -228,7 +281,7 @@ which is a subsidiary of Cheetah Mobile.
     the skills I gain will improve my work performance and be of great value to the company in our goal of expanding into overseas markets.
 
 
-Good morning everyone:
+Good morning ladies and gentlemen:
     My name is Chen Zhen. I come from the city of Nanyang in Henan Province 
     and graduated from Zhengzhou University of Light Industry in 2015, majoring in network engineering. 
     After graduation, I have been working in server research and development. 
@@ -237,8 +290,8 @@ Good morning everyone:
     I lead the team that achieved product launch in 42 days, obtained a license from 
     the Indonesian government in two months, adjusted product to achieve business profitability.
     
-    At work, I realize the lack of management theory. 
-    This is why I come here to join in this project.
+    At work, I acknowledge that I lack knowledge in management theory. 
+    That is why I have come here to participate in this project.
 ```
 
 
@@ -333,6 +386,21 @@ Everyone is very friendly, outstanding,
 and our cooperation is smooth.
 
 
+
+### 申请牌照经历体现出的有点，团队管理
+
+```
+中文：
+    在这个过程中，我主要负责探索业务合规方案，并进行系统设计，制定任务清单和时间节点，进行团队分工，
+    并对研发进度和质量进行控制，最终获得牌照，比同行业节省半年时间。
+    
+    In the process, I am responsible for exploring business compliance programs, system design, 
+    task list and time nodes, team division, control of development progress and quality, 
+    and finally obtaining a license, saving half a year compared with the same industry.
+    
+    
+
+```
 
 ## 中文面试   
 
