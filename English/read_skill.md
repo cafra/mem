@@ -35,27 +35,63 @@
 
 ## 例证题（论点和论据关系的考查，例子作为论据是证明论点的）
 - 原文定位，在定位的例子前找例子证明的观点信息
+- 例子是细节，可以帮助排除选项
 
 ## 态度题（作者或者文章某人对某事物的观点态度的考查）
 - 题干关键词: attitude,view, opinion, feel等词
 - 可以表达态度
     - “正”态度，即积极、正面的态度：
-        agree/support/positive/appreciation/...
+        agree
+        support
+        positive
+        appreciation
+        optimistic 
+        approval 
+        supportive
     - “负”态度，即消极、负面的态度：
-        disagree/ oppose/ negative/critical/skeptical... 
-    - “中”态度，即客观的态度：objective/impartial...
+        disagree
+        oppose 
+        negative
+        critical
+        skeptical
+        pessimistic
+        disapproval
+        doubtful
+        suspicious
+        questionable
+        objectionalble 令人反感的
+        
+    - “中”态度，即客观的态度：
+        neutral
+        objective
+        impartial
+        disinterest
 
 - 不可以表达的态度：
     - 歧视类：
-        biased/discriminate/prejudice... 
+        biased
+        discriminate
+        prejudice
+        contemptuous
+        subjective  主观的
     - 冷漠类：
-        indifference/uninterested/interested/concerned... 
+        indifference
+        uninterested
+        interested
+        concerned
     - 不清楚：
-        unclear/ambiguous/uncertain... 
+        unclear
+        ambiguous
+        uncertain
+        confused
+        puzzled
     - 情感过于强烈，肯定或否定：
-        enthusiastic/strongly/absolutely... 
+        enthusiastic
+        strongly
+        absolutely 
     - 容忍类：
-        tolerance/indulgent...
+        tolerance
+        indulgent
 
 - 解题方法：
     先排除不可以表达的态度词，
